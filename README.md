@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **anishkumarshaw02@gmail.com**
 
-- 👨‍💻 All of my projects are available at **[https://anonymous6291.github.io/](https://anonymous6291.github.io/)**
+- 👨‍💻 All of my projects are available at **[My Github profile](https://github.com/anonymous6291)**
 
 - 📄 Know about my experiences **[View Resume](https://raw.githubusercontent.com/anonymous6291/anonymous6291/main/Anish-Resume.pdf)**
 
