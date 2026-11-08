@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at **[https://anonymous6291.github.io/](https://anonymous6291.github.io/)**
 
-- 📄 Know about my experiences **[https://raw.githubusercontent.com/anonymous6291/anonymous6291/main/Anish-Resume.pdf](https://raw.githubusercontent.com/anonymous6291/anonymous6291/main/Anish-Resume.pdf)**
+- 📄 Know about my experiences **[View Resume](https://raw.githubusercontent.com/anonymous6291/anonymous6291/main/Anish-Resume.pdf)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
