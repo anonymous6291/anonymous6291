@@ -6,7 +6,7 @@
 
 - 💬 Ask me about **Java, Spring Boot, DSA, System Design, ESP32**
 
-- 📫 How to reach me **anishkumarshaw02@gmail.com**
+- 📫 My email **anishkumarshaw02@gmail.com**
 
 - 👨‍💻 All of my projects are available at **[My Github profile](https://github.com/anonymous6291)**
 
@@ -30,5 +30,5 @@
 ![](https://streak-stats.demolab.com/?user=anonymous6291&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=anonymous6291&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Favorite Quote
-<img src="https://githubusercontent.com" width="600" alt="Quote" />
+### ✍️ Quote:
+<img src="https://github.com/anonymous6291/anonymous6291/blob/main/assests/quote.svg" width="600" alt="Quote" />
